@@ -1,0 +1,5 @@
+{
+    "key": "F11",
+    "command": "workbench.action.tasks.runTask",
+    "args": "cpp runner"
+  }
